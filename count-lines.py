@@ -1,3 +1,9 @@
+"""
+This script counts the number of files in standard input.
+Input: strings from the system's standard input
+"""
+
+
 import sys 
 
 count=0
